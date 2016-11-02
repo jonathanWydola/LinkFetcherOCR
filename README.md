@@ -23,7 +23,7 @@ This app will open to the main activity, user will be prompted with 2 selections
 * JSON
 * SQL Queries
 
-
+whoever wants to take these
 * Parse title result (html)
 * Fetch url images
 
