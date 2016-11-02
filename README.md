@@ -12,18 +12,18 @@ This app will open to the main activity, user will be prompted with 2 selections
 
 ##Tasks:##
 ####Martin####
-*GUI
-*Camera implementation
+* GUI
+* Camera implementation
 
 ####Joel####
-*API call
-*HTTP Request
+* API call
+* HTTP Request
 
 ####Jonathan####
-*JSON
-*SQL Queries
+* JSON
+* SQL Queries
 
 
-*Parse title result (html)
-*Fetch url images
+* Parse title result (html)
+* Fetch url images
 
