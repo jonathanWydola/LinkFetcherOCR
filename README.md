@@ -10,13 +10,20 @@ This app will open to the main activity, user will be prompted with 2 selections
 
 ![alt tag](http://i795.photobucket.com/albums/yy234/joel24478/Screen%20Shot%202016-11-01%20at%208.48.10%20PM_zpsy88hv2zc.png)
 
-Tasks
--GUI
--API call
--HTTP Request
--JSON
--SQL Queries
--Camera implementation
--Parse title result (html)
--Fetch url images
+##Tasks:##
+####Martin####
+*GUI
+*Camera implementation
+
+####Joel####
+*API call
+*HTTP Request
+
+####Jonathan####
+*JSON
+*SQL Queries
+
+
+*Parse title result (html)
+*Fetch url images
 
